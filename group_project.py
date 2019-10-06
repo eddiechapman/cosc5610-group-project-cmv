@@ -34,4 +34,6 @@ def write_example_files(data, path):
 
 
 if __name__ == '__main__':
-    pass
+    PATH_EXAMPLE_DIR = pathlib.Path('example_data')
+    data = read_json_dir(PATH_EXAMPLE_DIR)
+    print(len(data))
