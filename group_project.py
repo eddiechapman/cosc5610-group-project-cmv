@@ -27,5 +27,15 @@ def read_jsonfile(path=PATH_ALL_TRAIN_DATA):
         return [json.loads(line) for line in f]
 
 
+def write_example_files(data, path):
+    """
+    Save a subset of the main dataset to a directory as json files.
+    """
+    filenames = [f'example{i}.json' for i, _ in enumerate(data, 1)]
+    for json_data, name in zip(data, filenames):
+        with open(path / name, 'w') as f:
+            json.dump(json_data, f)
+
+
 if __name__ == '__main__':
     pass
