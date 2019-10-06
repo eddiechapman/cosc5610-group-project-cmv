@@ -2,11 +2,7 @@ import json
 import pathlib
 
 
-PATH_SAMPLE_DATA = pathlib.Path('sample')
-PATH_ALL_TRAIN_DATA = pathlib.Path('data/all/train_period_data.jsonlist')
-
-
-def read_json_dir(path=PATH_SAMPLE_DATA):
+def read_json_dir(path):
     """
     Read a directory of json files as a list of dictionaries.
     """
@@ -19,7 +15,7 @@ def read_json_dir(path=PATH_SAMPLE_DATA):
     return reddit_data
 
 
-def read_jsonfile(path=PATH_ALL_TRAIN_DATA):
+def read_jsonfile(path):
     """
     Read a jsonfile (one json per line) file as a list of dictionaries.
     """
