@@ -7,6 +7,8 @@
 *.docx
 *.ods
 *.csv
+*.bz2
+*.jsonlist
 
 # VS Code
 .vscode/
