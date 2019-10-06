@@ -1,6 +1,20 @@
 import json
 import pathlib
 
+
+PATH_SAMPLE_DATA = pathlib.Path('sample')
+
+
+def load_sample_data():
+    reddit_posts = []
+    for child in PATH_SAMPLE_DATA.iterdir():
+        with open(child.name, mode='r', encoding='utf-8') as f:
+            post = json.loads(f)
+            reddit_posts.append(post)
+
+    return reddit_posts
+
+
 def main():
     DATA_PATH = pathlib.Path('data/all/train_period_data.jsonlist')
 
