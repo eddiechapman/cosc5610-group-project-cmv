@@ -8,8 +8,8 @@ def read_json_dir(path):
     """
     reddit_data = []
     for child in path.iterdir():
-        with open(child.name, mode='r', encoding='utf-8') as f:
-            post = json.loads(f)
+        with open(child, mode='r', encoding='utf-8') as f:
+            post = json.load(f)
             reddit_data.append(post)
 
     return reddit_data
