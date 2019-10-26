@@ -8,23 +8,40 @@ import parse_data as pd
 
 from models import Submission, Comment, User, BOTLIST, DATE_START, DATE_END
 
-#TO DO: Go through list, apply function or check value --> If return true.
-# filterSubmissionsByTime: list of submission objects, startTime (datetime), endTime (datetime) --> list of submission objects
-def filterSubmissionsByTime(JSONList):
-    submissions = []
-    for i in range(len(JSONList)): 
-        submissions.append(pd.create_submission(JSONList[i]))
-    
-    for i in range(len(submissions)):
-        print(submissions[i].time)
-
-
-def grabTimeFromJSON(JSONList):
+#getMatchesFromJSON: 
+    #input: JSONlist, field to query, list of conditions.
+    #output: List of json strings with matching field.
+def getMatchesFromJSON(JSONList, field, conditions):
+    matchingJSON = []
     for i in range(len(JSONList)):
-        print(JSONList[i].keys())
+        currentRow = JSONList[i]
+        if field == "created_utc":
+            dateTimeObj = datetime.datetime.fromtimestamp(currentRow['created_utc'])
+            stringDate = dateTimeObj.strftime("%Y-%m-%d %H:%M:%S")
+            if(stringDate in conditions): 
+                matchingJSON.append(currentRow)
+        elif (currentRow[field] in conditions):
+            matchingJSON.append(currentRow)
+    return matchingJSON
 
-# filterJSONListByTime: jsonlist, startime (datetime), endtime (datetime) --> jsonlist
+#filterMatchesByDatetime
+    #input: JSONlist, (String) start datetime, (String) end datetime.
+    #Output: list of json strings with time in range
+def filterMatchesByDatetime(JSONList, startTime, endTime):
+    matchingJSON = []
+    if (type(startTime) is str): startTime = datetime.datetime.strptime(startTime, "%Y-%m-%d %H:%M:%S")
+    if (type(endTime) is str): endTime = datetime.datetime.strptime(endTime, "%Y-%m-%d %H:%M:%S")
+    for i in range(len(JSONList)):
+        currentRow = JSONList[i]
+        dateTimeObj = datetime.datetime.fromtimestamp(currentRow['created_utc'])
+        if (dateTimeObj > startTime and dateTimeObj < endTime): matchingJSON.append(currentRow)
+        #if (dateTimeObj > startTime and dateTimeObj < endTime): matchingJSON.append(datetime.datetime.fromtimestamp(currentRow['created_utc']))
+            #Uncomment to validate that correct instances being retrieved
+    return matchingJSON
 
+#applyFunctionToAllRows
+    #input: name of function to be applied to each item, JSONList
+    #output
 
 data = pd.load_examples()
-grabTimeFromJSON(data)
+matchingTime = getMatchesFromJSON(data, "created_utc", ['2015-01-07 18:25:30'])
