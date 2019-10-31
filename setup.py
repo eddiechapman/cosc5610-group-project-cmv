@@ -10,7 +10,12 @@ setup(
     name='cosc5610-group-project-cmv',
     version='0.1',
     packages=['cmv'],
-    install_requires=[],  # TODO: How to autoload from requirements.txt?
+    entry_points={
+        'console_scripts': ['download=cmv.cmv_data:download'],
+    }
+    install_requires=[
+        'requests'
+    ],
     description='Network analysis of the ChangeMyView dataset',
     long_description=readme(),
     author='Noah Asaria, David Reddy, Eddie Chapman',
