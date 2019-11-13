@@ -9,9 +9,12 @@ import shutil
 import tarfile
 import requests
 
+DATA_FILE = 'cmv.tar.bz2'
+URL = f'https://chenhaot.com/data/cmv/{DATA_FILE}'
 
-CMV_FILE = 'cmv.tar.bz2'
-URL = f'https://chenhaot.com/data/cmv/{CMV_FILE}'
+p = pathlib.Path(__name__)
+DATA = p.parent / 'data'
+CMV = DATA / DATA_FILE
 
 # Paths to each data file in CMV_FILE
 DATASETS = {  
@@ -24,9 +27,17 @@ DATASETS = {
 }
 
 
-def download_dataset(url, destination):
-    with requests.get(url, stream=True) as r:
-        with destination.open(mode='wb') as f:
+def download():
+    """
+    Download the CMV dataset to cmv/data/cmv.tar.bz2.
+    """
+    DATA.mkdir(exist_ok=True)
+
+    if CMV.exists():
+        raise FileExistsError(f'Dataset found: {CMV}. Download aborted.')
+    
+    with requests.get(URL, stream=True) as r:
+        with CMV.open(mode='wb') as f:
             shutil.copyfileobj(r.raw, f)
 
 
@@ -48,18 +59,15 @@ def load_dataset(filename):
 
     """
     if not DATASETS.get(filename):
+        new_line = '\n'
+        new_line_tab = '\n\t'
         raise FileNotFoundError((
-            f'Cannot find dataset: {filename}.\n'
-            f'Try one of the following:\n\t'
-            f'{"\n\t".join(DATASETS.keys())}'
+            f'Cannot find dataset: {filename}.{new_line}'
+            f'Try one of the following:{new_line_tab}'
+            f'{new_line_tab.join(DATASETS.keys())}'
         ))
-    
-    cmv_file = pathlib.Path(CMV_FILE) 
         
-    if not cmv_file.is_file():
-        download(URL, cmv_file)
-        
-    with cmv_file.open(mode='rb') as f:
+    with CMV.open(mode='rb') as f:
         with tarfile.open(f, mode='r') as tar:
             extracted = tar.extractfile(DATASETS[filename])
             for line in BZ2File(extracted):
