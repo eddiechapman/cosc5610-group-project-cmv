@@ -1,0 +1,335 @@
+
+0	5	strokec c n in down brawl cssrgb are fights go argument dont action played short really makes survived boogaard 
+1	5	you t player or would involved lot snooze ago cheap steam blowing everyone line throw relying hand black standards 
+2	5	a i pardeftab any retaliation clearing one fans pitcher field like bigger way amount large live doesn draws derek 
+3	5	cb partightenfactor only watch thinking most years now bickering assessment ni difference major hits fighting otoh superstar reckless extent 
+4	5	cf sl what they result who look different batsmen due enjoyed mean nbaseball m better force happens vomitting championship 
+5	5	of is s hardcore mostly league occasional know out players good over than harmless anyone as would game cf 
+6	5	on but baseball people game many came not me valid about waiting boring watching sure pretty aren though few 
+7	5	that sport pard for bench green hockey consider hurting no ntake attention flourished points place woes physicality lead belief 
+8	5	to and fan be period if help double sports humans can being even leads concussions less outright ban dwane 
+9	5	the it hard at blue red its has isn had become was come removing when f execution fest whatsoever 
+
+<50> LL/token: -7.35759
+<60> LL/token: -7.33593
+<70> LL/token: -7.31168
+<80> LL/token: -7.39721
+<90> LL/token: -7.42276
+
+0	5	in pardeftab they any league brawl cssrgb blue period one myself batsmen assessment way enjoyed fest m number forms 
+1	5	is strokec hard hardcore result know double amount live action mean short pretty watering cheap happens tolerance end chippy 
+2	5	a i partightenfactor s what green has clearing only not thinking good become related pitcher or unless play involved 
+3	5	cb n down you bench who retaliation player most years like bickering ni boring draws snooze believe over woes 
+4	5	t fan as watch get mostly nba when consider valid dont large being attention survived aren were force more 
+5	5	of baseball would red out be hockey now look different f me execution hurting sports even nbaseball actually concussions 
+6	5	a on sport sl game help fights harmless go bigger argument ntake watching lot difference makes place less fight 
+7	5	cf at people many than fans came removing about major though points belief superstar charging funny technicals following itself 
+8	5	to and it but pard occasional isn its anyone mostly waiting whatsoever flourished just physicality lead pads dominant throw 
+9	5	the c that for players pard are if had was field no played doesn really boogaard leads argue expansion 
+
+<100> LL/token: -7.38286
+<110> LL/token: -7.40616
+<120> LL/token: -7.34705
+<130> LL/token: -7.40401
+<140> LL/token: -7.38551
+
+0	5	cf but hardcore fan league people fights had come unless out to execution sports watching mean actually largely force 
+1	5	a strokec is you green fans become anyone occasional was or about short even fest difference makes sure major 
+2	5	i partightenfactor sl be most one good hockey harmless me hurting boring doesn more its strategy well policing self 
+3	5	cb n sport s to t they retaliation thinking if has watch myself consider enjoyed m aren place watering 
+4	5	of it pardeftab hard help over double batsmen assessment can attention snooze line sportsmanship this itself out third ump 
+5	5	in is what any and years like no action ntake being period flourished survived leads better less happens since 
+6	5	pard bench blue only not are removing field go bigger argument ni waiting amount due period lot pretty concussions 
+7	5	the that at game result as brawl player players nba pitcher bickering way live humans believe corrections occasional extent 
+8	5	to and on down for now cssrgb isn than its get look different dont large played draws whatsoever belief 
+9	5	c baseball mostly would red who know clearing many came when f valid involved nbaseball really boogaard derek just 
+
+<150> LL/token: -7.41844
+<160> LL/token: -7.43179
+<170> LL/token: -7.39141
+<180> LL/token: -7.35296
+<190> LL/token: -7.38562
+
+0	5	game i but you red its harmless related pitcher for field go dont live played actually pretty leads argue 
+1	5	as are hockey become look players like when valid way no large action ntake mean snooze major boogaard less 
+2	5	sport would i brawl only help get anyone came removing play myself argument bickering ni sports whatsoever ago better 
+3	5	c that in partightenfactor sl pardeftab occasional mostly player years many me bigger consider about waiting can watching survived 
+4	5	a cf of it baseball s hardcore green who on not period nba unless out involved amount lot really 
+5	5	any blue result if most f hurting being enjoyed makes though has charging technicals hand nthe lesser standards usually 
+6	5	pard hard down fan league clearing people had for execution humans believe place expansion few tolerance strategy basket chippy 
+7	5	the to cb what watch cssrgb thinking one fans come be boring even attention draws fest concussions number more 
+8	5	and is strokec at now know isn double was due nbaseball difference derek points good were watering force hits 
+9	5	n on t they bench retaliation fights over than has or batsmen assessment doesn short sure m flourished forms 
+
+<200> LL/token: -7.34046
+<210> LL/token: -7.39516
+<220> LL/token: -7.38975
+<230> LL/token: -7.41308
+<240> LL/token: -7.39921
+
+0	5	to cb game c green fan would not watch fans look bickering execution way sports humans flourished aren few 
+1	5	of what red brawl unless argument hurting no dont ni involved ntake mean short attention actually difference leads points 
+2	5	i sport in baseball they know retaliation if most years than was removing field go bigger action played over 
+3	5	strokec partightenfactor sl pardeftab down you bench result league thinking fights good related nba different assessment about due doesn 
+4	5	a on that who clearing be players only are many get pitcher when consider boogaard concussions over physicality watering 
+5	5	it t mostly hard its cssrgb become me fest survived believe were pads had without dwane end funny chippy 
+6	5	pard c occasional isn being even lot makes sure pretty m number argue place woes championship treatment charging technicals 
+7	5	the but at any now out player period one came f large can enjoyed draws derek ago forms lead 
+8	5	cf and is of blue has hockey anyone come or play like people myself valid boring whatsoever major expansion 
+9	5	n s hardcore for as help harmless batsmen waiting amount live watching really following extent jordan nif little call 
+
+<250> LL/token: -7.35936
+<260> LL/token: -7.43856
+<270> LL/token: -7.39758
+<280> LL/token: -7.34803
+<290> LL/token: -7.38481
+
+0	5	to i of you hardcore fan its people double removing like argument bickering amount due even though ago since 
+1	5	baseball game t what for any blue has isn if help good was different or go no involved boring 
+2	5	cb n on sport but mostly would watch harmless came nba look bench pard sports attention lot pretty m 
+3	5	partightenfactor down red league occasional clearing out player be strokec are period most fights fans unless field valid batsmen 
+4	5	a that at pard become related play bigger waiting short difference aren argue physicality force dwane strategy time injuries 
+5	5	of sl result know brawl one hockey had anyone pitcher myself humans watching fest survived hits despite fouls itself 
+6	5	c hard they green players not cssrgb thinking years many it as being actually makes place largely were watering 
+7	5	the is s it who now come when execution hurting ntake doesn snooze really sure number expansion ban minor 
+8	5	cf and strokec bench me way played steam blowing throw superstar reckless chippy became nthe lesser after little is 
+9	5	in pardeftab retaliation only over than get consider assessment live points cheap belief less happens knows fighting technicals hand 
+
+<300> LL/token: -7.37765
+<310> LL/token: -7.42621
+<320> LL/token: -7.28584
+<330> LL/token: -7.3982
+<340> LL/token: -7.3461
+
+0	5	of i cb down would has any isn than related come clearing like bigger no amount large sports being 
+1	5	c sport sl n baseball bench green result now thinking years came or myself bickering hurting way involved due 
+2	5	is game what people not fights removing played attention derek leads though expansion pads fight into without championship end 
+3	5	strokec that partightenfactor pard mostly fan hardcore brawl if fans nba execution boring action doesn hits happens everyone fighting 
+4	5	a at red who as players good its was know play valid about dont enjoyed fest pretty boogaard better 
+5	5	they for league the become get look field assessment ntake even draws sure flourished believe aren argue less steam 
+6	5	cb blue cssrgb most one anyone go consider live humans short nbaseball makes m ago cheap forms belief knows 
+7	5	the it s you out player watch had unless me are just concussions number points were woes dangerous more 
+8	5	cf and hard occasional retaliation be period help over different when batsmen can watching place few since otoh strategy 
+9	5	to on in pardeftab but t only hockey many harmless f argument ni waiting are snooze watering its superstar 
+
+<350> LL/token: -7.33911
+<360> LL/token: -7.33476
+<370> LL/token: -7.29533
+<380> LL/token: -7.37486
+<390> LL/token: -7.377
+
+0	5	of in you retaliation be many double different when bigger assessment makes than blowing ban calls fighting wade now 
+1	5	n sport baseball what fan has result as out player if pitcher go dont m just points over few 
+2	5	is c partightenfactor pard hardcore they mostly and watch game most had become now bench thinking action humans being 
+3	5	strokec i that hard who brawl cssrgb bickering about are ntake short even lot fest flourished over ago woes 
+4	5	a sl occasional clearing period good years hockey myself argument isn batsmen execution hurting no waiting due watching nbaseball 
+5	5	for blue green its help and like ni live boring can draws difference concussions watering cheap steam pads tolerance 
+6	5	cb down players people one came removing play bench amount enjoyed snooze really sure derek believe place force hits 
+7	5	the on it s but any fights get nba field thinking doesn attention leads largely off despite nhockey dwane 
+8	5	cf and red not related only sl me consider involved sports are played actually pretty though happens fight corrections 
+9	5	to pardeftab at t league know would harmless fans anyone come or f valid isn way large mean survived 
+
+<400> LL/token: -7.44365
+<410> LL/token: -7.36278
+<420> LL/token: -7.3259
+<430> LL/token: -7.40671
+<440> LL/token: -7.33203
+
+0	5	of would league occasional not fights fans different come waiting fest sure boogaard place ago few woes into despite 
+1	5	on n sport partightenfactor baseball but bench sl brawl players than came nba batsmen ni live doesn actually pretty 
+2	5	and they has as retaliation one f consider argument bickering large ntake being attention derek points less outright funny 
+3	5	strokec i c you game green red its result now cssrgb are double s removing play field assessment amount 
+4	5	to is hardcore blue clearing only most hockey become execution about mean were knows ban corrections minor nhockey relying 
+5	5	mostly the know down be sl good over had like bigger valid hurting enjoyed draws difference flourished argue hits 
+6	5	the cb pard is for any hard if or involved humans can lot nbaseball major just believe better more 
+7	5	that in t s fan help get was look down out way no dont due short snooze concussions though 
+8	5	a cf at people watch thinking period years related when me boring watching really whatsoever makes m forms happens 
+9	5	it pardeftab what who player isn harmless hard pitcher go myself even survived number aren force many vomitting but 
+
+<450> LL/token: -7.34328
+<460> LL/token: -7.34721
+<470> LL/token: -7.39433
+<480> LL/token: -7.40152
+<490> LL/token: -7.39737
+
+0	5	of and is it n you game fan players most one over than get field isn humans mean even 
+1	5	on sl baseball but down for red result only fights years different valid no waiting fest really derek knows 
+2	5	at mostly bench cssrgb hockey fans anyone related know come retaliation play ni involved sports boring can attention ago 
+3	5	to strokec c i sport pardeftab hardcore clearing become occasional f argument assessment makes boogaard aren though watering lead 
+4	5	watch thinking period double go the pardeftab bigger batsmen large due played whatsoever leads concussions number points place into 
+5	5	s blue green has out not harmless or myself consider dont amount major force hits fight otoh basket sloppy 
+6	5	the cb pard any would who league brawl are if help good came me ntake watching doesn sure better 
+7	5	a that in hard its as people about hurting way draws nbaseball flourished expansion less happens steam nhockey throw 
+8	5	partightenfactor now player be many had look removing unless i isn bickering live action difference m more superstar hand 
+9	5	cf t what they pitcher like to when execution being enjoyed short snooze pretty argue largely woes physicality cheap 
+
+<500> LL/token: -7.32825
+<510> LL/token: -7.38008
+<520> LL/token: -7.47623
+<530> LL/token: -7.37402
+<540> LL/token: -7.39868
+
+0	5	the n sl would game anyone was nba you or is like myself no amount due sports mean snooze 
+1	5	on it sport down and occasional you player over cb ni involved large really m though physicality fight into 
+2	5	to and baseball result only watch isn t become for play just good largely few woes lead fouls following 
+3	5	of i c hard what any who if most many double go when valid execution hurting dont live humans 
+4	5	pardeftab but mostly period one has came pitcher removing me enjoyed difference makes argue watering dangerous minor strategy line 
+5	5	is they strokec blue not bench related look for field consider way boring ntake being short attention lot survived 
+6	5	strokec pard s at green fan know people are hockey different unless be played draws fest sure flourished boogaard 
+7	5	a that in its retaliation thinking t than harmless fans get argument bickering about waiting doesn nbaseball whatsoever points 
+8	5	red now league out help clearing can were hits blowing vomitting sloppy lesser black late elements deck yell margl 
+9	5	cf cb partightenfactor hardcore brawl players cssrgb fights years had as f bigger batsmen assessment action watching even leads 
+
+<550> LL/token: -7.42065
+<560> LL/token: -7.38161
+<570> LL/token: -7.36252
+<580> LL/token: -7.43036
+<590> LL/token: -7.3936
+
+0	5	the n partightenfactor s they t hockey it brawl cssrgb bigger waiting live if even draws really makes place 
+1	5	down at what for any bench blue result people are fights nba hard play f can ntake enjoyed attention 
+2	5	to cb out become was mostly removing game hurting way difference sure woes blowing calls otoh treatment relying digress 
+3	5	a of c in it occasional as be many had different or game assessment involved played watching m watering 
+4	5	strokec green now hard retaliation players came me argument large doesn if boogaard just leads few physicality dangerous lead 
+5	5	is and hardcore its only watch period anyone mostly look myself nbaseball actually believe t points expansion were hits 
+6	5	sl thinking one years double come batsmen about no dont amount due being fest whatsoever derek number aren though 
+7	5	pard but you who clearing not red help when valid execution short lot snooze flourished largely cheap steam outright 
+8	5	on that pardeftab fan has player isn over harmless fans get like consider bickering ni sports action humans mean 
+9	5	cf i sport and baseball would league know good unless field go boring most pretty survived concussions argue pads 
+
+<600> LL/token: -7.34643
+<610> LL/token: -7.33333
+<620> LL/token: -7.35955
+<630> LL/token: -7.41607
+<640> LL/token: -7.42317
+
+0	5	the it partightenfactor you for occasional retaliation be come field when execution assessment sports short help believe number argue 
+1	5	n sport pardeftab but hardcore any green who league only was baseball consider bickering hurting no due humans mean 
+2	5	to on would result know red than anyone look cb myself dont being whatsoever difference boogaard derek fights expansion 
+3	5	a c in of game bench fan one harmless watch bigger amount large boring can fest really concussions lead 
+4	5	the strokec s what they blue clearing isn good years had related like me argument involved pretty flourished points 
+5	5	and is now cssrgb if most fans or unless go that valid fan over woes cheap corrections otoh hand 
+6	5	sl hard as out people period many become came pitcher play waiting are action ntake watching lot nbaseball actually 
+7	5	cf cb pard the player players not different f batsmen way ni enjoyed even attention draws help ago physicality 
+8	5	that mostly baseball has brawl hockey removing about live are doesn sure just happens funny looks technicals following extent 
+9	5	of i down at t its thinking get double played snooze though place were few better hits less ban 
+
+<650> LL/token: -7.43268
+<660> LL/token: -7.40464
+<670> LL/token: -7.39857
+<680> LL/token: -7.3458
+<690> LL/token: -7.34689
+
+0	5	in t you retaliation out players thinking period related play amount enjoyed m derek ago few forms steam following 
+1	5	n sport baseball but red as only are fights get removing like mean lot flourished just leads place force 
+2	5	strokec pardeftab what fan brawl not bickering waiting watching attention fest nbaseball really boogaard expansion blowing wade free treatment 
+3	5	a and s any player most years many now different game valid batsmen execution assessment draws snooze makes concussions 
+4	5	the to on clearing partightenfactor me consider hurting no large live played doesn woes belief less knows into fighting 
+5	5	of is mostly occasional for be help pitcher go bigger due boring can ntake pretty good were strategy line 
+6	5	c it hard sl result league sports actually major watering cheap dangerous off fight since outright minor dwane sloppy 
+7	5	cf cb i partightenfactor hardcore would has know on watch game cssrgb isn over double or when strokec about 
+8	5	that pard bench blue who if one harmless become nba look field sl f ni involved being difference number 
+9	5	down at they its green hockey than fans had anyone was unless people myself argument way action whatsoever though 
+
+<700> LL/token: -7.39276
+<710> LL/token: -7.41016
+<720> LL/token: -7.37627
+<730> LL/token: -7.42918
+<740> LL/token: -7.36976
+
+0	5	is down they green its related myself hurting live fan are snooze actually woes since outright end funny injuries 
+1	5	and but hardcore result league player only fan good nba as when amount draws whatsoever pretty just believe argue 
+2	5	cf in pardeftab hard game would retaliation be players one over hockey harmless or f ni involved sports even 
+3	5	a cb who what know clearing most many had pitcher brawl and me bigger boring mean fest sure major 
+4	5	the to that sport has people thinking get double came at argument makes place steam fight everyone dominant line 
+5	5	of pard t mostly red out not than cssrgb valid about action watching short nbaseball survived derek aren better 
+6	5	it partightenfactor period unless dont are humans played lot expansion force cheap happens off fans otoh nhockey what become 
+7	5	i s cb help fights years anyone consider bickering assessment waiting ntake enjoyed m boogaard leads concussions largely dangerous 
+8	5	c n sl for at watch if was look different come field like sport can being doesn number hits 
+9	5	strokec on baseball you any bench blue now occasional isn play batsmen execution way no large due flourished though 
+
+<750> LL/token: -7.36188
+<760> LL/token: -7.38511
+<770> LL/token: -7.34374
+<780> LL/token: -7.35392
+<790> LL/token: -7.30215
+
+0	5	baseball they who its clearing player only period get related nba look or the argument ni sports played enjoyed 
+1	5	is what be people good pitcher and like when me myself no being boogaard believe number aren fight fighting 
+2	5	cf i sl s down pardeftab t would red has over fans had go involved waiting large watching major 
+3	5	and on the but you hockey valid execution assessment attention pretty physicality force cheap blowing pads despite nhockey without 
+4	5	the a bench isn are if years as f hurting short lot nbaseball hits since funny after headhunting unless 
+5	5	of a pard for at now not cssrgb than harmless bickering batsmen dont amount due can snooze actually really 
+6	5	c it game result brawl one was know way live mean doesn even makes leads woes lead calls free 
+7	5	to mostly league most help occasional pardeftab bigger about boring draws fest argue were more happens off into everyone 
+8	5	in partightenfactor n hardcore any green fan out fights anyone double come removing play whatsoever m survived derek expansion 
+9	5	strokec cb that sport hard retaliation players watch blue thinking many become different consider action humans ntake difference flourished 
+
+<800> LL/token: -7.44033
+<810> LL/token: -7.3401
+<820> LL/token: -7.35514
+<830> LL/token: -7.37992
+<840> LL/token: -7.47407
+
+0	5	that t they of clearing not cssrgb one than consider valid sports being actually boogaard ago watering hits off 
+1	5	c sport at would now green different it come unless play isn ni due can major number though woes 
+2	5	what but know blue fans bickering execution hurting no humans ntake watching really whatsoever better lead blowing calls corrections 
+3	5	the is partightenfactor pardeftab s baseball hardcore as out only thinking most was nba like go isn way boring 
+4	5	a game who fights f bigger about enjoyed makes survived believe largely physicality belief less happens dwane fouls following 
+5	5	to and of i pard down its has league for watch period help pitcher myself doesn even fest nbaseball 
+6	5	on it mostly red player be if good harmless had related look field dont amount lot draws sure m 
+7	5	strokec players are over many removing or batsmen involved action attention argue pads nhockey vomitting funny black variety headhunting 
+8	5	n in you occasional brawl years hockey result anyone double argument waiting pretty expansion were throw superstar sloppy time 
+9	5	cf cb sl hard any bench fan retaliation people get me assessment large live short snooze derek aren place 
+
+<850> LL/token: -7.35811
+<860> LL/token: -7.36274
+<870> LL/token: -7.34236
+<880> LL/token: -7.38993
+<890> LL/token: -7.32969
+
+0	5	but you green result out fights fans its get came live lot whatsoever m flourished were dangerous blowing fight 
+1	5	c n s t red who harmless nba f ni due mean draws snooze just concussions expansion cheap knows 
+2	5	cf it pardeftab down now if was different play me waiting large boring enjoyed difference survived boogaard derek believe 
+3	5	the strokec in game hardcore mostly hard bench one pitcher field people myself argument way no dont sports action 
+4	5	a partightenfactor baseball players come not pard assessment hurting involved amount played good few better less happens wade treatment 
+5	5	to and they know brawl be blue retaliation even nbaseball really aren argue points good hits into championship technicals 
+6	5	i on as player help many become like consider humans ntake being watching short most makes major leads largely 
+7	5	at the pard would watch cssrgb isn thinking are hockey removing go bigger valid bickering number steam pads its 
+8	5	of is sl what fan has league occasional for only period over related clearing unless when execution doesn actually 
+9	5	cb that sport any years than look or batsmen about attention fest most sure physicality force forms lead since 
+
+<900> LL/token: -7.37577
+<910> LL/token: -7.35089
+<920> LL/token: -7.33547
+<930> LL/token: -7.34064
+<940> LL/token: -7.37619
+
+0	5	that hard sport mostly cf green red its hockey anyone came me valid ntake played whatsoever argue largely pads 
+1	5	pard blue retaliation player removing field consider way ni attention difference m flourished major physicality hits dangerous fight fighting 
+2	5	it at what would fan people than harmless come when no large boring snooze sure tolerance without championship hand 
+3	5	the and c game t who result as most fights was execution due live mean short nbaseball makes pretty 
+4	5	baseball hardcore for know only isn fans related nba pitcher batsmen can being lot survived aren lead less since 
+5	5	to n sl occasional players thinking are get look bickering involved amount action humans fest actually concussions number were 
+6	5	strokec on bench now any be cssrgb years had myself about hurting dont really woes knows into calls treatment 
+7	5	cb i in pardeftab of down pard one many like enjoyed even boogaard points ago happens steam off has 
+8	5	a is of but you to period if help good over become or not bigger waiting sports just believe 
+9	5	cf s partightenfactor they league brawl clearing out watch has you f argument assessment watching doesn draws forms everyone 
+
+<950> LL/token: -7.41566
+<960> LL/token: -7.35721
+<970> LL/token: -7.28966
+<980> LL/token: -7.33185
+<990> LL/token: -7.35958
+
+0	5	it at result retaliation out anyone look removing no enjoyed period if pretty place force hits happens fight nhockey 
+1	5	sport a now brawl go assessment ni waiting even actually many since wade superstar unheard became nthe black reasons 
+2	5	n you be cssrgb most years only large watching if attention really m believe better physicality pads corrections has 
+3	5	the cf a strokec and c blue get way dont due fest leads lead minor championship chippy standards before 
+4	5	i on pard any green who occasional isn are hockey fans has nba different play like consider hurting sports 
+5	5	to baseball t as red over had unless field me execution live boring humans whatsoever makes sure were dangerous 
+6	5	s hard down mostly for fan know become bickering about involved being mean doesn woes everyone calls dwane line 
+7	5	that in partightenfactor pardeftab bench its player players people watch cb thinking help one fights good than related came 
+8	5	of is sl a hardcore they clearing and come valid batsmen action ntake aren expansion few ban otoh free 
+9	5	cb but game what would league not harmless double was or myself amount period short survived derek argue outright 
+
